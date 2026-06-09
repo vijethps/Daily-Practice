@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vijethps/Daily-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Hash Table
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/vijethps/Daily-Practice/tree/master/0409-longest-palindrome) |
+## String
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/vijethps/Daily-Practice/tree/master/0409-longest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/vijethps/Daily-Practice/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
