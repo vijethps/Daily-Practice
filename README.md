@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/vijethps/Daily-Practice/tree/master/0260-single-number-iii) |
+| [1732-find-the-highest-altitude](https://github.com/vijethps/Daily-Practice/tree/master/1732-find-the-highest-altitude) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vijethps/Daily-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vijethps/Daily-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3838-weighted-word-mapping](https://github.com/vijethps/Daily-Practice/tree/master/3838-weighted-word-mapping) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vijethps/Daily-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/vijethps/Daily-Practice/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
