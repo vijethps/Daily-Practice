@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/vijethps/Daily-Practice/tree/master/0260-single-number-iii) |
 | [1732-find-the-highest-altitude](https://github.com/vijethps/Daily-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/vijethps/Daily-Practice/tree/master/1833-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vijethps/Daily-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vijethps/Daily-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vijethps/Daily-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vijethps/Daily-Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vijethps/Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vijethps/Daily-Practice/tree/master/0409-longest-palindrome) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vijethps/Daily-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vijethps/Daily-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vijethps/Daily-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/vijethps/Daily-Practice/tree/master/2942-find-words-containing-character) |
