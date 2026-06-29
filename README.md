@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vijethps/Daily-Practice/tree/master/0048-rotate-image) |
 | [0260-single-number-iii](https://github.com/vijethps/Daily-Practice/tree/master/0260-single-number-iii) |
 | [1732-find-the-highest-altitude](https://github.com/vijethps/Daily-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/vijethps/Daily-Practice/tree/master/1833-maximum-ice-cream-bars) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vijethps/Daily-Practice/tree/master/0048-rotate-image) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/vijethps/Daily-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/vijethps/Daily-Practice/tree/master/1486-xor-operation-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vijethps/Daily-Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vijethps/Daily-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/vijethps/Daily-Practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
