@@ -113,10 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vijethps/Daily-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0513-find-bottom-left-tree-value](https://github.com/vijethps/Daily-Practice/tree/master/0513-find-bottom-left-tree-value) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vijethps/Daily-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0513-find-bottom-left-tree-value](https://github.com/vijethps/Daily-Practice/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vijethps/Daily-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0513-find-bottom-left-tree-value](https://github.com/vijethps/Daily-Practice/tree/master/0513-find-bottom-left-tree-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vijethps/Daily-Practice/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/vijethps/Daily-Practice/tree/master/1672-richest-customer-wealth) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/vijethps/Daily-Practice/tree/master/0513-find-bottom-left-tree-value) |
 <!---LeetCode Topics End-->
