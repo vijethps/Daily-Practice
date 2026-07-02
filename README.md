@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vijethps/Daily-Practice/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/vijethps/Daily-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0260-single-number-iii](https://github.com/vijethps/Daily-Practice/tree/master/0260-single-number-iii) |
 | [1550-three-consecutive-odds](https://github.com/vijethps/Daily-Practice/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/vijethps/Daily-Practice/tree/master/1672-richest-customer-wealth) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/vijethps/Daily-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0387-first-unique-character-in-a-string](https://github.com/vijethps/Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vijethps/Daily-Practice/tree/master/0409-longest-palindrome) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vijethps/Daily-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vijethps/Daily-Practice/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/vijethps/Daily-Practice/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/vijethps/Daily-Practice/tree/master/1672-richest-customer-wealth) |
 ## Breadth-First Search
 |  |
