@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vijethps/Daily-Practice/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/vijethps/Daily-Practice/tree/master/0048-rotate-image) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vijethps/Daily-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/vijethps/Daily-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vijethps/Daily-Practice/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/vijethps/Daily-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vijethps/Daily-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0387-first-unique-character-in-a-string](https://github.com/vijethps/Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vijethps/Daily-Practice/tree/master/0012-integer-to-roman) |
 | [0387-first-unique-character-in-a-string](https://github.com/vijethps/Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/vijethps/Daily-Practice/tree/master/0409-longest-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vijethps/Daily-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
