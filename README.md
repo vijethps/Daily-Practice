@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/vijethps/Daily-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/vijethps/Daily-Practice/tree/master/0260-single-number-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/vijethps/Daily-Practice/tree/master/1486-xor-operation-in-an-array) |
 ## Math
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/vijethps/Daily-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vijethps/Daily-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/vijethps/Daily-Practice/tree/master/0513-find-bottom-left-tree-value) |
 ## Depth-First Search
@@ -141,10 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/vijethps/Daily-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vijethps/Daily-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/vijethps/Daily-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vijethps/Daily-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/vijethps/Daily-Practice/tree/master/0513-find-bottom-left-tree-value) |
 ## Divide and Conquer
