@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vijethps/Daily-Practice/tree/master/0179-largest-number) |
 | [0260-single-number-iii](https://github.com/vijethps/Daily-Practice/tree/master/0260-single-number-iii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vijethps/Daily-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0318-maximum-product-of-word-lengths](https://github.com/vijethps/Daily-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0682-baseball-game](https://github.com/vijethps/Daily-Practice/tree/master/0682-baseball-game) |
 | [1331-rank-transform-of-an-array](https://github.com/vijethps/Daily-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1550-three-consecutive-odds](https://github.com/vijethps/Daily-Practice/tree/master/1550-three-consecutive-odds) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/vijethps/Daily-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/vijethps/Daily-Practice/tree/master/0260-single-number-iii) |
+| [0318-maximum-product-of-word-lengths](https://github.com/vijethps/Daily-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [1486-xor-operation-in-an-array](https://github.com/vijethps/Daily-Practice/tree/master/1486-xor-operation-in-an-array) |
 ## Math
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/vijethps/Daily-Practice/tree/master/0012-integer-to-roman) |
 | [0179-largest-number](https://github.com/vijethps/Daily-Practice/tree/master/0179-largest-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/vijethps/Daily-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/vijethps/Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/vijethps/Daily-Practice/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/vijethps/Daily-Practice/tree/master/0409-longest-palindrome) |
