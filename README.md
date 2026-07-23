@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/vijethps/Daily-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/vijethps/Daily-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/vijethps/Daily-Practice/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vijethps/Daily-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
@@ -164,12 +165,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vijethps/Daily-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/vijethps/Daily-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/vijethps/Daily-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/vijethps/Daily-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vijethps/Daily-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/vijethps/Daily-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/vijethps/Daily-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/vijethps/Daily-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
