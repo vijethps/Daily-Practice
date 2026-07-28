@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/vijethps/Daily-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/vijethps/Daily-Practice/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/vijethps/Daily-Practice/tree/master/0318-maximum-product-of-word-lengths) |
+| [0338-counting-bits](https://github.com/vijethps/Daily-Practice/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/vijethps/Daily-Practice/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/vijethps/Daily-Practice/tree/master/0371-sum-of-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/vijethps/Daily-Practice/tree/master/1486-xor-operation-in-an-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/vijethps/Daily-Practice/tree/master/0022-generate-parentheses) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vijethps/Daily-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0338-counting-bits](https://github.com/vijethps/Daily-Practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vijethps/Daily-Practice/tree/master/0392-is-subsequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vijethps/Daily-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
