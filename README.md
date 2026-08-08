@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vijethps/Daily-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/vijethps/Daily-Practice/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijethps/Daily-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0946-validate-stack-sequences](https://github.com/vijethps/Daily-Practice/tree/master/0946-validate-stack-sequences) |
 | [1331-rank-transform-of-an-array](https://github.com/vijethps/Daily-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vijethps/Daily-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vijethps/Daily-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/vijethps/Daily-Practice/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/vijethps/Daily-Practice/tree/master/0946-validate-stack-sequences) |
 | [3612-process-string-with-special-operations-i](https://github.com/vijethps/Daily-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/vijethps/Daily-Practice/tree/master/3838-weighted-word-mapping) |
 ## Queue
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/vijethps/Daily-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/vijethps/Daily-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/vijethps/Daily-Practice/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/vijethps/Daily-Practice/tree/master/0946-validate-stack-sequences) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vijethps/Daily-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
 |  |
