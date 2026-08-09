@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/vijethps/Daily-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/vijethps/Daily-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/vijethps/Daily-Practice/tree/master/1302-deepest-leaves-sum) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/vijethps/Daily-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/vijethps/Daily-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/vijethps/Daily-Practice/tree/master/1302-deepest-leaves-sum) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vijethps/Daily-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/vijethps/Daily-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [1302-deepest-leaves-sum](https://github.com/vijethps/Daily-Practice/tree/master/1302-deepest-leaves-sum) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/vijethps/Daily-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [1302-deepest-leaves-sum](https://github.com/vijethps/Daily-Practice/tree/master/1302-deepest-leaves-sum) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
