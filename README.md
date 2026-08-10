@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vijethps/Daily-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0386-lexicographical-numbers](https://github.com/vijethps/Daily-Practice/tree/master/0386-lexicographical-numbers) |
 | [0513-find-bottom-left-tree-value](https://github.com/vijethps/Daily-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/vijethps/Daily-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/vijethps/Daily-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -276,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vijethps/Daily-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/vijethps/Daily-Practice/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
