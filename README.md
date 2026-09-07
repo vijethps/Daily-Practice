@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vijethps/Daily-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/vijethps/Daily-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/vijethps/Daily-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/vijethps/Daily-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/vijethps/Daily-Practice/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/vijethps/Daily-Practice/tree/master/1302-deepest-leaves-sum) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vijethps/Daily-Practice/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/vijethps/Daily-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vijethps/Daily-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/vijethps/Daily-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/vijethps/Daily-Practice/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vijethps/Daily-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/vijethps/Daily-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vijethps/Daily-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/vijethps/Daily-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/vijethps/Daily-Practice/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/vijethps/Daily-Practice/tree/master/1302-deepest-leaves-sum) |
