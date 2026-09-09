@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vijethps/Daily-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/vijethps/Daily-Practice/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/vijethps/Daily-Practice/tree/master/1672-richest-customer-wealth) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vijethps/Daily-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/vijethps/Daily-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vijethps/Daily-Practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/vijethps/Daily-Practice/tree/master/1833-maximum-ice-cream-bars) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/vijethps/Daily-Practice/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/vijethps/Daily-Practice/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/vijethps/Daily-Practice/tree/master/0946-validate-stack-sequences) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vijethps/Daily-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vijethps/Daily-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/vijethps/Daily-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/vijethps/Daily-Practice/tree/master/3838-weighted-word-mapping) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vijethps/Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vijethps/Daily-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Counting
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/vijethps/Daily-Practice/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vijethps/Daily-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vijethps/Daily-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/vijethps/Daily-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vijethps/Daily-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
 |  |
