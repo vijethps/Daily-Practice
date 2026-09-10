@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/vijethps/Daily-Practice/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/vijethps/Daily-Practice/tree/master/1302-deepest-leaves-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vijethps/Daily-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/vijethps/Daily-Practice/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/vijethps/Daily-Practice/tree/master/1302-deepest-leaves-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vijethps/Daily-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/vijethps/Daily-Practice/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/vijethps/Daily-Practice/tree/master/1302-deepest-leaves-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vijethps/Daily-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Divide and Conquer
 |  |
