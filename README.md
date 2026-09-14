@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/vijethps/Daily-Practice/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/vijethps/Daily-Practice/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vijethps/Daily-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/vijethps/Daily-Practice/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vijethps/Daily-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/vijethps/Daily-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/vijethps/Daily-Practice/tree/master/1486-xor-operation-in-an-array) |
@@ -367,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vijethps/Daily-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vijethps/Daily-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vijethps/Daily-Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
