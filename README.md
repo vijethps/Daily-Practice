@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/vijethps/Daily-Practice/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vijethps/Daily-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vijethps/Daily-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/vijethps/Daily-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/vijethps/Daily-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vijethps/Daily-Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/vijethps/Daily-Practice/tree/master/0419-battleships-in-a-board) |
 | [0835-image-overlap](https://github.com/vijethps/Daily-Practice/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/vijethps/Daily-Practice/tree/master/1672-richest-customer-wealth) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/vijethps/Daily-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -379,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/vijethps/Daily-Practice/tree/master/0836-rectangle-overlap) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/vijethps/Daily-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
