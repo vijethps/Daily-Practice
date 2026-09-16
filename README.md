@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/vijethps/Daily-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/vijethps/Daily-Practice/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vijethps/Daily-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/vijethps/Daily-Practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/vijethps/Daily-Practice/tree/master/3019-number-of-changing-keys) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vijethps/Daily-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3612-process-string-with-special-operations-i](https://github.com/vijethps/Daily-Practice/tree/master/3612-process-string-with-special-operations-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/vijethps/Daily-Practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/vijethps/Daily-Practice/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
