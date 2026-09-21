@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vijethps/Daily-Practice/tree/master/0048-rotate-image) |
 | [0342-power-of-four](https://github.com/vijethps/Daily-Practice/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/vijethps/Daily-Practice/tree/master/0371-sum-of-two-integers) |
+| [0445-add-two-numbers-ii](https://github.com/vijethps/Daily-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vijethps/Daily-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/vijethps/Daily-Practice/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vijethps/Daily-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vijethps/Daily-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vijethps/Daily-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vijethps/Daily-Practice/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/vijethps/Daily-Practice/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vijethps/Daily-Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vijethps/Daily-Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vijethps/Daily-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vijethps/Daily-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vijethps/Daily-Practice/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/vijethps/Daily-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/vijethps/Daily-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/vijethps/Daily-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/vijethps/Daily-Practice/tree/master/0682-baseball-game) |
