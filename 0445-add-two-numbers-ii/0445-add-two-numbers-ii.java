@@ -59,6 +59,8 @@ class Solution {
             temp.next = nnode;
             temp = nnode;
         }
+        l1 = null;
+        l2=null;
         return dummy;
     }
 }
