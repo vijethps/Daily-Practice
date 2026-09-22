@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijethps/Daily-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0835-image-overlap](https://github.com/vijethps/Daily-Practice/tree/master/0835-image-overlap) |
 | [0946-validate-stack-sequences](https://github.com/vijethps/Daily-Practice/tree/master/0946-validate-stack-sequences) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/vijethps/Daily-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vijethps/Daily-Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/vijethps/Daily-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vijethps/Daily-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/vijethps/Daily-Practice/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/vijethps/Daily-Practice/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/vijethps/Daily-Practice/tree/master/0946-validate-stack-sequences) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/vijethps/Daily-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vijethps/Daily-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vijethps/Daily-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/vijethps/Daily-Practice/tree/master/3498-reverse-degree-of-a-string) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vijethps/Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/vijethps/Daily-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vijethps/Daily-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Counting
 |  |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/vijethps/Daily-Practice/tree/master/0179-largest-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vijethps/Daily-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/vijethps/Daily-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1331-rank-transform-of-an-array](https://github.com/vijethps/Daily-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vijethps/Daily-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/vijethps/Daily-Practice/tree/master/1833-maximum-ice-cream-bars) |
