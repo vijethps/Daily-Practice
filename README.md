@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vijethps/Daily-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/vijethps/Daily-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vijethps/Daily-Practice/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/vijethps/Daily-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/vijethps/Daily-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vijethps/Daily-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vijethps/Daily-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/vijethps/Daily-Practice/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vijethps/Daily-Practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vijethps/Daily-Practice/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/vijethps/Daily-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vijethps/Daily-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vijethps/Daily-Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/vijethps/Daily-Practice/tree/master/2652-sum-multiples) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/vijethps/Daily-Practice/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/vijethps/Daily-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vijethps/Daily-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/vijethps/Daily-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vijethps/Daily-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/vijethps/Daily-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/vijethps/Daily-Practice/tree/master/3612-process-string-with-special-operations-i) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vijethps/Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/vijethps/Daily-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vijethps/Daily-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/vijethps/Daily-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Counting
 |  |
 | ------- |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/vijethps/Daily-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/vijethps/Daily-Practice/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/vijethps/Daily-Practice/tree/master/0342-power-of-four) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/vijethps/Daily-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vijethps/Daily-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
