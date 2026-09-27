@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/vijethps/Daily-Practice/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/vijethps/Daily-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vijethps/Daily-Practice/tree/master/1019-next-greater-node-in-linked-list) |
+| [1020-number-of-enclaves](https://github.com/vijethps/Daily-Practice/tree/master/1020-number-of-enclaves) |
 | [1331-rank-transform-of-an-array](https://github.com/vijethps/Daily-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vijethps/Daily-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vijethps/Daily-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/vijethps/Daily-Practice/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/vijethps/Daily-Practice/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/0965-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/vijethps/Daily-Practice/tree/master/1020-number-of-enclaves) |
 | [1302-deepest-leaves-sum](https://github.com/vijethps/Daily-Practice/tree/master/1302-deepest-leaves-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vijethps/Daily-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vijethps/Daily-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0419-battleships-in-a-board](https://github.com/vijethps/Daily-Practice/tree/master/0419-battleships-in-a-board) |
 | [0835-image-overlap](https://github.com/vijethps/Daily-Practice/tree/master/0835-image-overlap) |
+| [1020-number-of-enclaves](https://github.com/vijethps/Daily-Practice/tree/master/1020-number-of-enclaves) |
 | [1672-richest-customer-wealth](https://github.com/vijethps/Daily-Practice/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/vijethps/Daily-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Breadth-First Search
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/vijethps/Daily-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/0965-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/vijethps/Daily-Practice/tree/master/1020-number-of-enclaves) |
 | [1302-deepest-leaves-sum](https://github.com/vijethps/Daily-Practice/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/vijethps/Daily-Practice/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vijethps/Daily-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [1020-number-of-enclaves](https://github.com/vijethps/Daily-Practice/tree/master/1020-number-of-enclaves) |
 ## Number Theory
 |  |
 | ------- |
