@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vijethps/Daily-Practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vijethps/Daily-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vijethps/Daily-Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vijethps/Daily-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/vijethps/Daily-Practice/tree/master/0338-counting-bits) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vijethps/Daily-Practice/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/vijethps/Daily-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vijethps/Daily-Practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vijethps/Daily-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/vijethps/Daily-Practice/tree/master/0179-largest-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/vijethps/Daily-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/vijethps/Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vijethps/Daily-Practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vijethps/Daily-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vijethps/Daily-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vijethps/Daily-Practice/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/vijethps/Daily-Practice/tree/master/0445-add-two-numbers-ii) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vijethps/Daily-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vijethps/Daily-Practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vijethps/Daily-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vijethps/Daily-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vijethps/Daily-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Geometry
