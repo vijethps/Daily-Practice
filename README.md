@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vijethps/Daily-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/vijethps/Daily-Practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vijethps/Daily-Practice/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/vijethps/Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijethps/Daily-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/vijethps/Daily-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vijethps/Daily-Practice/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/vijethps/Daily-Practice/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/vijethps/Daily-Practice/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/vijethps/Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/vijethps/Daily-Practice/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/vijethps/Daily-Practice/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vijethps/Daily-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/vijethps/Daily-Practice/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/vijethps/Daily-Practice/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/vijethps/Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijethps/Daily-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/vijethps/Daily-Practice/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vijethps/Daily-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/vijethps/Daily-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/vijethps/Daily-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/vijethps/Daily-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/vijethps/Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/vijethps/Daily-Practice/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/vijethps/Daily-Practice/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/vijethps/Daily-Practice/tree/master/0897-increasing-order-search-tree) |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vijethps/Daily-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vijethps/Daily-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vijethps/Daily-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/vijethps/Daily-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vijethps/Daily-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vijethps/Daily-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Geometry
