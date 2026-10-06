@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/vijethps/Daily-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vijethps/Daily-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vijethps/Daily-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vijethps/Daily-Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vijethps/Daily-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vijethps/Daily-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vijethps/Daily-Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/vijethps/Daily-Practice/tree/master/0763-partition-labels) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/vijethps/Daily-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vijethps/Daily-Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/vijethps/Daily-Practice/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vijethps/Daily-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vijethps/Daily-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vijethps/Daily-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vijethps/Daily-Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vijethps/Daily-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
