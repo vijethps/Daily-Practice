@@ -31,12 +31,9 @@ class Solution {
            return head;
     }
     public static int gcd(int a,int b){
-        int c = a%b;
-        if(c==0){
-            return b;
+        if(b==0){
+            return a;
         }
-        a=b;
-        b=c;
-        return gcd(a,b);
+        return gcd(b,a%b);
     }
 }
