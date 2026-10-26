@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/vijethps/Daily-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vijethps/Daily-Practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vijethps/Daily-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vijethps/Daily-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/vijethps/Daily-Practice/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vijethps/Daily-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/vijethps/Daily-Practice/tree/master/3838-weighted-word-mapping) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vijethps/Daily-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/vijethps/Daily-Practice/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vijethps/Daily-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/vijethps/Daily-Practice/tree/master/0835-image-overlap) |
 | [1020-number-of-enclaves](https://github.com/vijethps/Daily-Practice/tree/master/1020-number-of-enclaves) |
 | [1672-richest-customer-wealth](https://github.com/vijethps/Daily-Practice/tree/master/1672-richest-customer-wealth) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vijethps/Daily-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/vijethps/Daily-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Breadth-First Search
 |  |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/vijethps/Daily-Practice/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/vijethps/Daily-Practice/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vijethps/Daily-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vijethps/Daily-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [1020-number-of-enclaves](https://github.com/vijethps/Daily-Practice/tree/master/1020-number-of-enclaves) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vijethps/Daily-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Number Theory
 |  |
 | ------- |
