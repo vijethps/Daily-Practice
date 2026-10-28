@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/vijethps/Daily-Practice/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vijethps/Daily-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0835-image-overlap](https://github.com/vijethps/Daily-Practice/tree/master/0835-image-overlap) |
+| [0867-transpose-matrix](https://github.com/vijethps/Daily-Practice/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/vijethps/Daily-Practice/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/vijethps/Daily-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vijethps/Daily-Practice/tree/master/1019-next-greater-node-in-linked-list) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/vijethps/Daily-Practice/tree/master/0289-game-of-life) |
 | [0682-baseball-game](https://github.com/vijethps/Daily-Practice/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/vijethps/Daily-Practice/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/vijethps/Daily-Practice/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/vijethps/Daily-Practice/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/vijethps/Daily-Practice/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vijethps/Daily-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/vijethps/Daily-Practice/tree/master/0289-game-of-life) |
 | [0419-battleships-in-a-board](https://github.com/vijethps/Daily-Practice/tree/master/0419-battleships-in-a-board) |
 | [0835-image-overlap](https://github.com/vijethps/Daily-Practice/tree/master/0835-image-overlap) |
+| [0867-transpose-matrix](https://github.com/vijethps/Daily-Practice/tree/master/0867-transpose-matrix) |
 | [1020-number-of-enclaves](https://github.com/vijethps/Daily-Practice/tree/master/1020-number-of-enclaves) |
 | [1672-richest-customer-wealth](https://github.com/vijethps/Daily-Practice/tree/master/1672-richest-customer-wealth) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vijethps/Daily-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
