@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vijethps/Daily-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/vijethps/Daily-Practice/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vijethps/Daily-Practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1652-defuse-the-bomb](https://github.com/vijethps/Daily-Practice/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/vijethps/Daily-Practice/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vijethps/Daily-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/vijethps/Daily-Practice/tree/master/1732-find-the-highest-altitude) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vijethps/Daily-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1652-defuse-the-bomb](https://github.com/vijethps/Daily-Practice/tree/master/1652-defuse-the-bomb) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vijethps/Daily-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vijethps/Daily-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Trie
