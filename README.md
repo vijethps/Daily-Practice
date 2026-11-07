@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/vijethps/Daily-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vijethps/Daily-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/vijethps/Daily-Practice/tree/master/0061-rotate-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vijethps/Daily-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vijethps/Daily-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vijethps/Daily-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vijethps/Daily-Practice/tree/master/0237-delete-node-in-a-linked-list) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vijethps/Daily-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vijethps/Daily-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/vijethps/Daily-Practice/tree/master/0222-count-complete-tree-nodes) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vijethps/Daily-Practice/tree/master/0035-search-insert-position) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vijethps/Daily-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/vijethps/Daily-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vijethps/Daily-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vijethps/Daily-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vijethps/Daily-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vijethps/Daily-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vijethps/Daily-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/vijethps/Daily-Practice/tree/master/0222-count-complete-tree-nodes) |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vijethps/Daily-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vijethps/Daily-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vijethps/Daily-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
